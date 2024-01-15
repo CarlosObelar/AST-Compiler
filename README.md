@@ -26,7 +26,9 @@ El programa realiza comprobaciones básicas de errores, como asegurarse de que h
 ## Uso
 
 ### Entrada:
-Ejecute el programa e ingrese una expresión matemática cuando se le solicite.
+Ejecute el programa e ingrese una expresión matemática cuando se le solicite. Es importante que utilice los parentesis adecuados.
+
+**Importante:** Asegúrese de escribir las expresiones matemáticas con los correspondientes paréntesis para su correcto funcionamiento.
 
 ### Salida:
 El programa mostrará el resultado de la expresión evaluada.
